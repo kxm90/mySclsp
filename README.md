@@ -12,4 +12,4 @@
 # 3) run below to check on the test coverage 
 #  npx jest --coverage
 
-# Note: Code is not implemented to handle cases where there are more than one county with same zipcode for a given state and rate_area
+# Note: Didn't get a chance to code cases where there is no rate defined in scenario in which there may be more than one county with same zipcode for a given state and rate_area. 
