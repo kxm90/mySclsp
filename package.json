@@ -1,0 +1,19 @@
+{
+  "name": "my-slcsp",
+  "version": "0.0.0",
+  "description": "mySlcsp",
+  "main": "myUtil.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "D": "^1.0.0",
+    "util": "^0.12.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.2.0"
+  }
+}
