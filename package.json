@@ -7,7 +7,9 @@
     "name": ""
   },
   "dependencies": {
+    "csv": "^5.5.3",
     "D": "^1.0.0",
+    "fs": "^0.0.1-security",
     "util": "^0.12.4"
   },
   "scripts": {
