@@ -1,6 +1,6 @@
 # mySlcsp - Code is built and tested on Node.js V16.9.0 
 # Create a directory (say mySlcsp) and download the homework.zip 
-# unzip homework.zip in the same location (i.e. under mySlcsp) and run below 
+# unzip homework.zip in the same location (i.e. under mySlcsp) 
 # From any unix/linux or windows command prompt - change directory to mySlcsp (cd mySlcsp) and run below 
 # npm install 
 # Now under mySlcsp, you will see 3 csv files (slcsp.csv, zips.csv & plans.csv) 
